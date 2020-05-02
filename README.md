@@ -11,7 +11,7 @@ Research paper and code on information extraction from image/pdf
  * [Graph Convolution on Structured Documents](https://github.com/dhavalpotdar/Graph-Convolution-on-Structured-Documents)
  * [Graph Matric](https://colab.research.google.com/drive/1CjicFAgc1PtSYBmQKt3OccsOHyf0a5MU#scrollTo=C_Lkp4sqeg8T)
  * [Feature Extraction from Graph](https://colab.research.google.com/drive/1ZkS9YkFgWMR39e9yf5BxcyqPQR4T_hZ1#scrollTo=C_Lkp4sqeg8T)
-.
+ * [Extract data from Invoice](https://medium.com/@vigneshgig/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46)
 
 ### Research Papers
  * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
@@ -29,4 +29,5 @@ Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
  * [An Overview of the Tesseract OCR Engine ](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33418.pdf)
  * [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
  * [An Invoice Reading System Using a Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-21074-8_12)
+
 

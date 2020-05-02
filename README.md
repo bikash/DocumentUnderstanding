@@ -21,5 +21,10 @@ Documents using Improved Graph
 Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
  * [Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval](https://arxiv.org/abs/1502.07058)
  * [Few-Shot Learning with Graph Neural Networks](https://arxiv.org/abs/1711.04043)
- * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
+ * [MMDetection: Open MMLab Detection Toolbox and Benchmark](https://arxiv.org/abs/1906.07155)
+ * [Efficient, Lexicon-Free OCR using Deep Learning
+](https://arxiv.org/abs/1906.01969)
+ * [An Overview of the Tesseract OCR Engine ](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33418.pdf)
+ * [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
+ * [An Invoice Reading System Using a Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-21074-8_12)
 

@@ -5,6 +5,8 @@ Research paper and code on information extraction from image/pdf
  * [FUNSD](https://guillaumejaume.github.io/FUNSD/)
  * [RVL-CDIP](https://www.cs.cmu.edu/~aharley/rvl-cdip/)
  * [SROIE](https://rrc.cvc.uab.es/#)
+ * [INVOICE](https://drive.google.com/drive/folders/1FsV9TFw31m-RZ544ZY0MWIzEG8dtR7mK) 
+
 
 ### Code:
  * [Layoutlm](https://github.com/microsoft/unilm/tree/master/layoutlm)

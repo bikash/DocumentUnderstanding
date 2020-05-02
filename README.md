@@ -19,3 +19,7 @@ Research paper and code on information extraction from image/pdf
  * [PICK: Processing Key Information Extraction from
 Documents using Improved Graph
 Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
+ * [Evaluation of Deep Convolutional Nets for Document Image Classification and Retrieval](https://arxiv.org/abs/1502.07058)
+ * [Few-Shot Learning with Graph Neural Networks](https://arxiv.org/abs/1711.04043)
+ * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
+

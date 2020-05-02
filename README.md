@@ -16,4 +16,6 @@ Research paper and code on information extraction from image/pdf
  * [Deep Convolutional Nets for Document Image Classification and Retrieval](https://www.cs.cmu.edu/~aharley/icdar15/harley_convnet_icdar15.pdf)
  * [Table Detection in Invoice Documents by Graph Neural Network](https://priba.github.io/assets/publi/conf/2019_ICDAR_PRiba.pdf)
  * [Graph Convolution on Structured Documents](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/)
- * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
+ * [PICK: Processing Key Information Extraction from
+Documents using Improved Graph
+Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)

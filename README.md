@@ -37,9 +37,7 @@ Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
  ### DETECT TABLE in Image/PDF
  * [CascadeTabNet: An approach for end to end table detection and structure
 recognition from image-based documents](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf)
-* [TableNet: Deep Learning model for end-to-end
-Table detection and Tabular data extraction from
-Scanned Document Images] (https://arxiv.org/pdf/2001.01469.pdf)
+* [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/pdf/2001.01469.pdf)
 
 ## Reference
 * [parsing pdf](https://porter.io/github.com/jsfenfen/parsing-prickly-pdfs)

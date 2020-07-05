@@ -14,7 +14,9 @@ Research paper and code on information extraction from image/pdf
  * [Graph Matric](https://colab.research.google.com/drive/1CjicFAgc1PtSYBmQKt3OccsOHyf0a5MU#scrollTo=C_Lkp4sqeg8T)
  * [Feature Extraction from Graph](https://colab.research.google.com/drive/1ZkS9YkFgWMR39e9yf5BxcyqPQR4T_hZ1#scrollTo=C_Lkp4sqeg8T)
  * [Extract data from Invoice](https://medium.com/@vigneshgig/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46)
-
+ * [CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet)
+ * [Tabulo ](https://github.com/interviewBubble/Tabulo)
+ * [PubLayNet](https://github.com/phamquiluan/PubLayNet)
 ### Research Papers
  * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
  * [Deep Convolutional Nets for Document Image Classification and Retrieval](https://www.cs.cmu.edu/~aharley/icdar15/harley_convnet_icdar15.pdf)
@@ -31,5 +33,15 @@ Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
  * [An Overview of the Tesseract OCR Engine ](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33418.pdf)
  * [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
  * [An Invoice Reading System Using a Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-21074-8_12)
+ 
+ ### DETECT TABLE in Image/PDF
+ * [CascadeTabNet: An approach for end to end table detection and structure
+recognition from image-based documents](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf)
+* [TableNet: Deep Learning model for end-to-end
+Table detection and Tabular data extraction from
+Scanned Document Images] (https://arxiv.org/pdf/2001.01469.pdf)
+
+## Reference
+* [parsing pdf](https://porter.io/github.com/jsfenfen/parsing-prickly-pdfs)
 
 

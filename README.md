@@ -17,6 +17,7 @@ Research paper and code on information extraction from image/pdf
  * [CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet)
  * [Tabulo ](https://github.com/interviewBubble/Tabulo)
  * [PubLayNet](https://github.com/phamquiluan/PubLayNet)
+ * [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) Extract text from invoice
 ### Research Papers
  * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
  * [Deep Convolutional Nets for Document Image Classification and Retrieval](https://www.cs.cmu.edu/~aharley/icdar15/harley_convnet_icdar15.pdf)

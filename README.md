@@ -6,7 +6,7 @@ Research paper and code on information extraction from image/pdf
  * [RVL-CDIP](https://www.cs.cmu.edu/~aharley/rvl-cdip/)
  * [SROIE](https://rrc.cvc.uab.es/#)
  * [INVOICE](https://drive.google.com/drive/folders/1FsV9TFw31m-RZ544ZY0MWIzEG8dtR7mK) 
-
+ * [HTR Dataset ICFHR 2016](https://zenodo.org/record/1297399#.X0zmA9P7TUI)
 
 ### Code:
  * [Layoutlm](https://github.com/microsoft/unilm/tree/master/layoutlm)
@@ -39,6 +39,12 @@ Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
  * [CascadeTabNet: An approach for end to end table detection and structure
 recognition from image-based documents](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf)
 * [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/pdf/2001.01469.pdf)
+
+### DETECT Layout in docuent/Image:
+
+* [layout parsing](https://github.com/Layout-Parser/layout-parser)
+* [PubLayNet](https://github.com/phamquiluan/PubLayNet)
+
 
 ## Reference
 * [parsing pdf](https://porter.io/github.com/jsfenfen/parsing-prickly-pdfs)

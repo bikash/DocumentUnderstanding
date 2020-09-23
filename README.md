@@ -8,6 +8,7 @@ Research paper and code on information extraction from image/pdf
  * [INVOICE](https://drive.google.com/drive/folders/1FsV9TFw31m-RZ544ZY0MWIzEG8dtR7mK) 
  * [HTR Dataset ICFHR 2016](https://zenodo.org/record/1297399#.X0zmA9P7TUI)
  * [Tobacco3482](https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72)
+ * [PubLay](https://github.com/ibm-aur-nlp/PubLayNet)
  
 ### Code:
  * [Layoutlm](https://github.com/microsoft/unilm/tree/master/layoutlm)

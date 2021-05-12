@@ -3,7 +3,7 @@ Research paper and code on information extraction from image/pdf
 
 ### INVOICE EXTRACTION
 * [PICK Pytorch](https://github.com/wenwenyu/PICK-pytorch)
-* 
+* [Graph net](https://github.com/thisisbhavin/graphicalForest)
 
 ### Datasets
  * [FUNSD](https://guillaumejaume.github.io/FUNSD/)

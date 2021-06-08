@@ -7,6 +7,8 @@ Research paper and code on information extraction from image/pdf
 * [Graph net](https://github.com/thisisbhavin/graphicalForest)
 
 ### Datasets
+ * [TableBank](https://doc-analysis.github.io/tablebank-page/)
+ * [DocBank](https://doc-analysis.github.io/docbank-page/)
  * [FUNSD](https://guillaumejaume.github.io/FUNSD/)
  * [RVL-CDIP](https://www.cs.cmu.edu/~aharley/rvl-cdip/)
  * [SROIE](https://rrc.cvc.uab.es/#)

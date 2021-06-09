@@ -12,7 +12,7 @@ Research paper and code on information extraction from image/pdf
  * [FUNSD](https://guillaumejaume.github.io/FUNSD/)
  * [RVL-CDIP](https://www.cs.cmu.edu/~aharley/rvl-cdip/)
  * [SROIE](https://rrc.cvc.uab.es/#)
- * [INVOICE](https://drive.google.com/drive/folders/1FsV9TFw31m-RZ544ZY0MWIzEG8dtR7mK) 
+ * [Document Visual Question Answering](https://rrc.cvc.uab.es/?ch=17&com=introduction)
  * [HTR Dataset ICFHR 2016](https://zenodo.org/record/1297399#.X0zmA9P7TUI)
  * [Tobacco3482](https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72)
  * [PubLay](https://github.com/ibm-aur-nlp/PubLayNet)

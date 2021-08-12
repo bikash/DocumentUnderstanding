@@ -6,6 +6,12 @@ Research paper and code on information extraction from image/pdf
 * [PICK](https://medium.com/analytics-vidhya/extracting-structured-data-from-invoice-96cf5e548e40)
 * [Graph net](https://github.com/thisisbhavin/graphicalForest)
 
+
+### RECEIPT DATA
+* [CORD: A Consolidated Receipt Dataset for Post-OCR Parsing](https://github.com/clovaai/cord)
+
+
+
 ### Datasets
  * [TableBank](https://doc-analysis.github.io/tablebank-page/)
  * [DocBank](https://doc-analysis.github.io/docbank-page/)

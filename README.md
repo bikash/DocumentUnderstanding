@@ -33,6 +33,7 @@ Research paper and code on information extraction from image/pdf
  * [Tabulo ](https://github.com/interviewBubble/Tabulo)
  * [PubLayNet](https://github.com/phamquiluan/PubLayNet)
  * [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) Extract text from invoice
+ * [Cutie](https://github.com/vsymbol/CUTIE)
  
 ### Research Papers
  * [LayoutLM](https://arxiv.org/pdf/1912.13318.pdf)
@@ -53,7 +54,7 @@ Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
  * [An Invoice Reading System Using a Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-21074-8_12)
  
  ### DETECT TABLE in Image/PDF
- * [CascadeTabNet: An approach for end to end table detection and structure
+* [CascadeTabNet: An approach for end to end table detection and structure
 recognition from image-based documents](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf)
 * [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/pdf/2001.01469.pdf)
 * [RetinaNet](https://medium.com/@djajafer/pdf-table-extraction-with-keras-retinanet-173a13371e89)

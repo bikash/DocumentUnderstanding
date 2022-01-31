@@ -52,7 +52,7 @@ Learning-Convolutional Networks](https://arxiv.org/pdf/2004.07464.pdf)
  * [An Overview of the Tesseract OCR Engine ](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33418.pdf)
  * [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)
  * [An Invoice Reading System Using a Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-21074-8_12)
- 
+ * [Spatial Dependency Parsing for Semi-Structured Document Information Extraction](https://arxiv.org/pdf/2005.00642.pdf)
  ### DETECT TABLE in Image/PDF
 * [CascadeTabNet: An approach for end to end table detection and structure
 recognition from image-based documents](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf)

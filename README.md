@@ -23,6 +23,7 @@ Research paper and code on information extraction from image/pdf
  * [Tobacco3482](https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72)
  * [PubLay](https://github.com/ibm-aur-nlp/PubLayNet)
  * [Tobacco800 Complex Document Image Database and Groundtruth](http://tc11.cvc.uab.es/datasets/Tobacco800_1)
+ * [NIST Forms](https://www.nist.gov/srd/nist-special-database-2)
  
 ### Code:
  * [Layoutlm](https://github.com/microsoft/unilm/tree/master/layoutlm)

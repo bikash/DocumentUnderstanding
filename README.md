@@ -10,8 +10,6 @@ Research paper and code on information extraction from image/pdf
 ### RECEIPT DATA
 * [CORD: A Consolidated Receipt Dataset for Post-OCR Parsing](https://github.com/clovaai/cord)
 
-
-
 ### Datasets
  * [TableBank](https://doc-analysis.github.io/tablebank-page/)
  * [DocBank](https://doc-analysis.github.io/docbank-page/)
@@ -25,6 +23,17 @@ Research paper and code on information extraction from image/pdf
  * [Tobacco800 Complex Document Image Database and Groundtruth](http://tc11.cvc.uab.es/datasets/Tobacco800_1)
  * [NIST Forms](https://www.nist.gov/srd/nist-special-database-2)
  
+# DETECT Layout in document/Image:
+![Alt text](img/dataset-illustration.png "datasets")
+* [PubLayNet](https://github.com/phamquiluan/PubLayNet)
+* [PRIMA](http://primaresearch.org/dataset/)
+* [HJDatasets (Historical Japanese Documents with Complex Layouts)](https://dell-research-harvard.github.io/HJDataset/)
+* [Newspaper Navigator](https://news-navigator.labs.loc.gov/)
+ * [TableBank](https://doc-analysis.github.io/tablebank-page/)
+ * [DocBank](https://doc-analysis.github.io/docbank-page/)
+#### Tools:
+* [layout parsing](https://github.com/Layout-Parser/layout-parser)
+
 ### Code:
  * [Layoutlm](https://github.com/microsoft/unilm/tree/master/layoutlm)
  * [Graph Convolution on Structured Documents](https://github.com/dhavalpotdar/Graph-Convolution-on-Structured-Documents)
@@ -62,11 +71,6 @@ recognition from image-based documents](https://arxiv.org/ftp/arxiv/papers/2004/
 * [RetinaNet](https://medium.com/@djajafer/pdf-table-extraction-with-keras-retinanet-173a13371e89)
 
 
-
-### DETECT Layout in docuent/Image:
-
-* [layout parsing](https://github.com/Layout-Parser/layout-parser)
-* [PubLayNet](https://github.com/phamquiluan/PubLayNet)
 
 
 ## Reference

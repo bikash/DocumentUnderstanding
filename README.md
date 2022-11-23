@@ -1,6 +1,28 @@
 # Information extraction from Image using Deep learning
 Research paper and code on information extraction from image/pdf
 
+# Layout Analysis in document/Image:
+Document layout analysis is the process of identifying and categorizing the regions of interest in the 
+scanned image of a text document. A reading system requires the segmentation of text zones from 
+non-textual ones and the arrangement in their correct reading order.Detection and labeling of the different 
+zones (or blocks) as text body, illustrations, math symbols, and tables embedded in a document is called 
+geometric layout analysis.(https://en.wikipedia.org/wiki/Document_layout_analysis)
+
+![Alt text](img/dataset-illustration.png "datasets")
+* [PubLayNet](https://github.com/phamquiluan/PubLayNet)
+* [PRIMA](http://primaresearch.org/dataset/)
+* [HJDatasets (Historical Japanese Documents with Complex Layouts)](https://dell-research-harvard.github.io/HJDataset/)
+* [Newspaper Navigator](https://news-navigator.labs.loc.gov/)
+* [TableBank](https://doc-analysis.github.io/tablebank-page/)
+* [DocBank](https://doc-analysis.github.io/docbank-page/)
+* [German-Brazilian Newspapers (GBN) Dataset](https://web.inf.ufpr.br/vri/databases/gbn/)
+#### Tools:
+* [layout parsing](https://github.com/Layout-Parser/layout-parser)
+* [Detectron 2](https://github.com/JPLeoRX/detectron2-publaynet)
+* [Parsr](https://github.com/axa-group/Parsr)
+* [DeepDocDetection](https://github.com/deepdoctection/deepdoctection)
+
+
 ### INVOICE EXTRACTION
 * [PICK Pytorch](https://github.com/wenwenyu/PICK-pytorch)
 * [PICK](https://medium.com/analytics-vidhya/extracting-structured-data-from-invoice-96cf5e548e40)
@@ -23,16 +45,7 @@ Research paper and code on information extraction from image/pdf
  * [Tobacco800 Complex Document Image Database and Groundtruth](http://tc11.cvc.uab.es/datasets/Tobacco800_1)
  * [NIST Forms](https://www.nist.gov/srd/nist-special-database-2)
  
-# DETECT Layout in document/Image:
-![Alt text](img/dataset-illustration.png "datasets")
-* [PubLayNet](https://github.com/phamquiluan/PubLayNet)
-* [PRIMA](http://primaresearch.org/dataset/)
-* [HJDatasets (Historical Japanese Documents with Complex Layouts)](https://dell-research-harvard.github.io/HJDataset/)
-* [Newspaper Navigator](https://news-navigator.labs.loc.gov/)
- * [TableBank](https://doc-analysis.github.io/tablebank-page/)
- * [DocBank](https://doc-analysis.github.io/docbank-page/)
-#### Tools:
-* [layout parsing](https://github.com/Layout-Parser/layout-parser)
+
 
 ### Code:
  * [Layoutlm](https://github.com/microsoft/unilm/tree/master/layoutlm)

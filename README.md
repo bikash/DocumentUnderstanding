@@ -1,7 +1,7 @@
 # Information extraction from Image using Deep learning
 Research paper and code on information extraction from image/pdf
 
-# Layout Analysis in document/Image:
+# Layout Analysis in Document/Image:
 Document layout analysis is the process of identifying and categorizing the regions of interest in the 
 scanned image of a text document. A reading system requires the segmentation of text zones from 
 non-textual ones and the arrangement in their correct reading order.Detection and labeling of the different 
